@@ -1,4 +1,4 @@
-# Repo per progetto Instagram 
+# Repo per progetto
 # Progetto Programmazione e laboratorio A.A. 2022/2023
 
 
